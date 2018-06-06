@@ -1,0 +1,58 @@
+/*UNIT 2 Lesson 2 Joins CTEs*/
+
+SELECT   
+	t.duration,
+	strftime('%d/%m/%Y', date) as Date_,
+	t.trip_id, 
+	w.PrecipitationIn, 
+	t.start_station, 
+	t.end_station
+FROM   
+	trips t 
+JOIN 
+	weather w
+ON
+	t.zip_code = w.ZIP
+WHERE 
+	w.PrecipitationIn > 0
+AND 
+	w.PrecipitationIn NOT IN ('T')
+ORDER BY w.PrecipitationIn DESC  
+LIMIT 3
+
+/**/
+
+SELECT 
+   s.station_id,
+   s.name,
+   s.city,
+   s.dockcount,
+   t.bikes_available,
+   t.docks_available
+ FROM 
+	status t
+JOIN  
+	stations s
+ON
+	t.station_id = s.station_id
+WHERE 
+	docks_available = 0
+AND 
+	bikes_available = 0
+GROUP BY s.name
+
+/**/
+
+SELECT
+	s.name AS STATION,
+	s.dockcount,
+	count(*) AS COUNT_
+FROM
+	trips t
+JOIN 
+	stations s
+ON
+	t.start_terminal = s.station_id
+GROUP BY s.name
+ORDER BY s.dockcount
+
