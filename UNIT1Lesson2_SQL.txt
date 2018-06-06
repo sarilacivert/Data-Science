@@ -1,0 +1,36 @@
+/* UNIT 1 Lesson 2 SQL*/
+
+SELECT
+    trip_id, duration
+FROM
+    trips
+WHERE
+	duration > 500
+ORDER BY duration DESC
+
+/**/
+
+SELECT  
+   *
+ FROM 
+	stations 
+WHERE   
+    station_id = 84
+	
+
+station_id
+name
+lat
+long
+dockcount
+city
+installation
+
+/**/
+
+SELECT  
+  MinTemperatureF
+ FROM 
+	weather 
+WHERE   
+	ZIP = 94301
