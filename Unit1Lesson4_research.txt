@@ -1,0 +1,13 @@
+Unit 1 Lesson 4 The research proposal
+
+The problem
+
+  A financial services company does have a churn in company customers so there is an expectation to revive the number of customers.    
+  
+The potential solution
+
+  A financial services company will reduce customer churn with its new product, an exchange traded fund (ETF) because of the steady increase in industry demand for the product.
+
+The method of testing the solution
+
+  An A/B testing method as the ETF is the test version and an array of control version products.  The expectation of the company is the hypothesis of the test version ETF will revive the customer base.  A survey of existing customers when they log into the company website and then random ads across the internet for new customers would be the two random split groups.  To reduce Simpson's Paradox, a brief demographic survey would be included when existing customers opt for the test version ETF and also the potential customers when they sign up for the first time because of the test version ETF.  Key metrics would be the quantity of existing customers who select the test version because of their log in session by clicking the ETF advertisement versus the quantity of existing customers that do not click.  Another key metric would be the quantity of potential customers who click on the new product ad versus the quantity that do not, i.e. people arrive to the website, but do not click on the website ad.    
