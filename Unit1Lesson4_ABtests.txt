@@ -1,0 +1,18 @@
+
+    1. Does a new supplement help people sleep better?
+    
+    The hypothesis is our expectation that the new supplement, i.e. the test version, would help people sleep better as our outcome.  A sample of 2 groups would take the test version and the control version, the old supplement.  A key metric would be the survey results of number of hours of sleep and the sample participants satification of sleep on a scale from one to four stars.  Other measured variables would be similar demographics of the 2 sample groups such as living in metropolitan cities and busy lives. 
+        
+    
+    2. Will new uniforms help a gym's business?
+    
+    The hypothesis is our expectation that the new uniforms will add more revenue to the gym's business.  Two sample groups of old and new gym uniforms who handle new membership sign ups and add more services to existing members.  The test version will be the new uniforms and the control version will be the old uniform.  A key metric is the quantity of revenue change between test and control version uniforms with the hypothesis the test version will outpace the control version.  Other measured variables would be the similarities of the test and control version and the people who are wearing the uniforms have the same roles.  
+    
+    3. Will a new homepage improve my online exotic pet rental business?
+    
+    The hypothesis is our expectation the test version of a new homepage will improve revenue of the online exotic pet rental business over the old version homepage.  2 samples of customers using the old and new homepages, i.e. the test and control versions would be surveyed as the other measured variable are the similarities amoung the 2 sample customers.  A key metric would be the outcome of the increased revenue from the new homepage over the old homepage.     
+        
+    4. If I put 'please read' in the email subject will more people read my emails?
+    
+    The hypothesis is our expectation the test version of please read statement in the email subject will cause more people to read emails over the placebo, the control version with no please read statement.  2 samples of email recipients of the test and control version would be surveyed as the other measured variable would be the similarities amoung the 2 sample email recipients.  A key metric would be the outcome of the increased clicks to read the email over not reading because there was a please read statement in the test version.    
+    
