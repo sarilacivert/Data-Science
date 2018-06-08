@@ -1,0 +1,21 @@
+
+1.  You're testing advertising emails for a bathing suit company and you test one version of the email in February and the other in May.
+
+    Sampling bias of the earlier February email as a different bathing suit type of a different demographic than the later email in May.  Different size one piece for the former and the latter is for smaller size two piece bathing suit could be a selection bias in the overall population of customers in the bathing suit company.
+
+
+2. You open a clinic to treat anxiety and find that the people who visit show a higher rate of anxiety than the general population.
+
+    Observer bias as the clinic workers push for anxiety treatment to visitors only.
+    
+
+3. You launch a new ad billboard based campaign and see an increase in website visits in the first week.
+
+    Bias in assignment conditions as car drivers who pass the billboard remember the website address, while large groups of people who use public transportation like a subway that cannot view the billboard above ground.
+
+
+4. You launch a loyalty program but see no change in visits in the first week.
+
+    Context of the study, the loyalty program is launched during a holiday week when historically the number of customer visits are the lowest.
+
+    
